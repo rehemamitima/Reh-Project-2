@@ -1,0 +1,35 @@
+html {
+    margin: 0;
+    height: 100%;
+  }
+  
+  body {
+    background-image: linear-gradient(180deg, #2af598 0%, #009efd 100%);
+    background-attachment: fixed;
+  }
+  
+  section {
+    display: flex;
+  }
+  
+  article {
+    background: #e6f2fa;
+    padding: 0 100px;
+  }
+  
+  figure {
+    margin: 0;
+    padding: 10px 30px;
+    width: 50vw;
+    text-align: center;
+  }
+  
+  p {
+    line-height: 30px;
+    font-size: 1.5em;
+  }
+  
+  img {
+    position: sticky;
+    top: 40%;
+  }
